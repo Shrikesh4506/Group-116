@@ -14,9 +14,9 @@ p {
   font-family: Arial;
 }
 div {
-  background-color: rgb(28, 119, 255);
+  background-color: blue;
   text-align: right;
-}
+  }
 th, td {
   padding: 8px;
   text-align: left;
